@@ -1,0 +1,16 @@
+# Local Virtual Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environmental Configurations
+.env
+
+# Audio Processing Cache
+*.wav
+*.mp3
+
+# IDE / System Logs
+.DS_Store
+.vscode/

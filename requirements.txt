@@ -1,0 +1,7 @@
+streamlit
+psutil
+chromadb
+crewai
+requests
+pyaudio
+SpeechRecognition
